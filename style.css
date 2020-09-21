@@ -216,6 +216,19 @@ a:hover {
     border-color: rgba(0, 0, 0, .1);
 }
 
+.container h2 {
+    font-size:25px;
+    margin-left:16%;
+    margin-right:16%;
+}
+
+q {
+    font-size: 24px;
+    font-weight: 500;
+    font-style: italic;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 .d-bloc .panel .a-btn,
 .l-bloc .a-btn,
 .l-bloc .navbar a,
@@ -748,6 +761,12 @@ h4 {
     margin-top: 50px;
 }
 
+#bloc-4-portfolio h2 {
+    font-size:25px;
+    margin-left:25%;
+    margin-right:25%;
+}
+
 .avatar {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
 }
@@ -822,7 +841,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpeg");
 }
 
 @media (max-width: 1024px) {
