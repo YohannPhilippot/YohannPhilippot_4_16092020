@@ -133,7 +133,8 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgba(0, 0, 0, 1);
+    padding-bottom:10px;
 }
 
 .d-bloc .a-btn:hover,
@@ -288,6 +289,11 @@ q {
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
+}
+
+.col-sm-4 h2 {
+    color: rgba(0, 0, 0, 1)!important;
+    
 }
 
 .row.row-no-gutters > [class^="col-"],
@@ -664,7 +670,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: rgba(0, 0, 0, 1) !important;
 }
 
 .container {
@@ -749,7 +755,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: rgba(0, 0, 0, 1)!important;
 }
 
 .portfolio-thumb {
@@ -799,7 +805,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: rgba(0, 0, 0, 1)!important;
 }
 
 .btn-atomic-tangerine:hover {
