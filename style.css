@@ -291,6 +291,11 @@ q {
     margin-left: 0;
 }
 
+
+.col-sm-3 social{
+    color: rgba(0, 0, 0, 1)!important;
+}
+
 .col-sm-4 h2 {
     color: rgba(0, 0, 0, 1)!important;
     
@@ -800,7 +805,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: rgba(0, 0, 0, 1)!important;
 }
 
 .btn-atomic-tangerine {
