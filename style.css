@@ -309,6 +309,11 @@ q {
 
 #bloc-1-hero h1 {
     font-size: 32px;
+    color: #F3976C!important;
+}
+
+#bloc-5-cta h2 {
+    color: #F3976C !important;
 }
 
 .navbar {
@@ -700,6 +705,7 @@ a {
     margin: auto auto auto auto;
 }
 
+
 p {
     font-size: 11px;
 }
@@ -760,7 +766,7 @@ h4 {
 }
 
 .white {
-    color: rgba(0, 0, 0, 1)!important;
+    color: #FFF!important;
 }
 
 .portfolio-thumb {
@@ -772,10 +778,26 @@ h4 {
     margin-top: 50px;
 }
 
+#bloc-3-what-i-do h2 {
+    color: #F3976C!important;
+}
+
 #bloc-4-portfolio h2 {
-    font-size:25px;
-    margin-left:25%;
-    margin-right:25%;
+    font-size: 25px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#bloc-6 h1 {
+    color: rgba(0, 0, 0, 1)!important;
+}
+
+#bloc-6 p {
+    color: rgba(0, 0, 0, 1) !important;
+}
+
+#bloc-8 p {
+    color: rgba(0, 0, 0, 1)!important;
 }
 
 .avatar {
@@ -805,7 +827,7 @@ h4 {
 }
 
 .tc-white {
-    color: rgba(0, 0, 0, 1)!important;
+    color: #FFF!important;
 }
 
 .btn-atomic-tangerine {
