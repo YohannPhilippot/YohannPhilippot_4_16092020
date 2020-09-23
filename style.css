@@ -300,22 +300,22 @@ q {
     color: rgba(0, 0, 0, 1)!important;
 }
 
-.col-sm-4 ul{
+#partenaires ul {
     list-style:none!important;
     padding-inline-start:0;  
 }
 
-.col-sm-4 li {
+#partenaires li {
     margin:20px;
 }
 
-.col-sm-4 a {
+#partenaires a {
     font-weight:600!important;
     font-size:18px!important;
     padding:10px;
 }
 
-.col-sm-4 h2 {
+#partenaires h2 {
     color: rgba(0, 0, 0, 1)!important;
     font-weight:bold;
     font-size:32px!important;
