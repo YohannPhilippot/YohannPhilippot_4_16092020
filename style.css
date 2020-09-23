@@ -278,6 +278,10 @@ q {
     border-color: rgba(0, 0, 0, .3);
 }
 
+.logo-width {
+    width:100px;
+}
+
 .voffset {
     margin-top: 30px;
 }
