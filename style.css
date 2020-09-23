@@ -305,9 +305,14 @@ q {
     padding-inline-start:0;  
 }
 
+.col-sm-4 li {
+    margin:20px;
+}
+
 .col-sm-4 a {
     font-weight:600!important;
     font-size:18px!important;
+    padding:10px;
 }
 
 .col-sm-4 h2 {
