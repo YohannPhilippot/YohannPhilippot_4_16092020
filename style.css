@@ -218,13 +218,13 @@ a:hover {
 }
 
 .container h2 {
-    font-size:25px;
+    font-size:18px;
     margin-left:16%;
     margin-right:16%;
 }
 
 q {
-    font-size: 24px;
+    font-size: 18px;
     font-weight: 500;
     font-style: italic;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -336,6 +336,10 @@ q {
     color: #F3976C!important;
 }
 
+#bloc-3-what-i-do h2 {
+    color: #F3976C !important;
+}
+
 #bloc-5-cta h2 {
     color: #F3976C !important;
 }
@@ -413,6 +417,10 @@ q {
     float: right;
     position: relative;
     z-index: 2;
+}
+
+p {
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
@@ -756,6 +764,8 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    display:flex;
+    justify-content:space-around;
 }
 
 h2 {
@@ -795,6 +805,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    margin:auto;
 }
 
 .portfolio-row {
