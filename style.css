@@ -307,7 +307,7 @@ q {
 
 #partenaires ul {
     list-style:none!important;
-    padding-inline-start:0;  
+    padding-right:45px;
 }
 
 #partenaires li {
